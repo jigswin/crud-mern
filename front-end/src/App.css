@@ -1,0 +1,87 @@
+.nav-ul li{
+  display: inline-block;
+  padding: 10px;
+}
+.nav-ul li a{
+  text-decoration: none;
+  color: white;
+}
+.logo{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  float: left;
+  margin-top: 0px ;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.navbar{
+background-color: black;
+}
+.nav-right{
+  text-align: right;
+  margin-right: 50px;
+}
+
+.footer{
+  position:absolute;
+  bottom: 0;
+  color: white;
+  background-color: black;
+  text-align: center;
+  width: 100%;
+}
+
+.register{
+  margin-left: 40%;
+}
+
+.InputButton{
+  margin: 20px 20px 20px 0px;
+  width:150px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.InputBox{
+  padding: 7px;
+  display: block;
+  width: 300px;
+  margin: 20px 20px 0px 0px;
+  border: 1px solid black;
+}
+.Invalid-input{
+  font-size:12px;
+  color:red;
+}
+
+.product-table{
+  margin-left:23%;
+}
+
+.product-table table{
+  border:1px solid black;
+}
+.product-table th{
+  border:1px solid wheat;
+  padding:10px;
+  background-color: black;
+  color: white;
+}
+.product-table td{
+  border:1px solid black;
+  padding:10px;
+}
+
+.updateButton {
+  color: black;
+  text-decoration: none;
+  padding: 0px 6px 2px 6px;
+  font-size: 13px;
+  background: #efefef;
+  border: 1px solid;
+  border-radius: 2px;
+  margin-left: 4px;
+}
